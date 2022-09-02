@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=madhawap.madhawap)
+
 
 <!--
+
+![](https://visitor-badge.glitch.me/badge?page_id=madhawap.madhawap)
 **madhawap/madhawap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
