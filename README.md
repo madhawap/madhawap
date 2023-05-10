@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋
 
-
+<img src="https://github.com/madhawap/madhawap/assets/12988860/c795fc1e-b2ac-49a8-9064-90d0cff606a5" width="300"/>
 
 <!--
 
