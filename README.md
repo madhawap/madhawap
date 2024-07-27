@@ -1,8 +1,8 @@
 ### 👋
 
-<img src="https://github.com/madhawap/madhawap/assets/12988860/c795fc1e-b2ac-49a8-9064-90d0cff606a5" width="300"/>
-
 <!--
+
+<img src="https://github.com/madhawap/madhawap/assets/12988860/c795fc1e-b2ac-49a8-9064-90d0cff606a5" width="300"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=madhawap.madhawap)
 **madhawap/madhawap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
